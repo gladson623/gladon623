@@ -9,6 +9,7 @@ Sou desenvolvedor backend apaixonado por tecnologia, atuando há mais de 5 anos 
 - 🏆 **Conquistas do GitHub:**  
   - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gladson623&show_icons=true&theme=dracula)
   - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladson623&layout=compact&theme=dracula)
+  - [![Trophy](https://github-profile-trophy.vercel.app/?username=gladson623&theme=gruvbox&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💡 Habilidades
 
